@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "944999884512",
+    "firebase_url": "https://chatappkotlin-50f70.firebaseio.com",
+    "project_id": "chatappkotlin-50f70",
+    "storage_bucket": "chatappkotlin-50f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944999884512:android:dfcaee3ecc37e7df",
+        "android_client_info": {
+          "package_name": "com.example.saqib.kotlinchatproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944999884512-kq9acl6tfks67hikkddus03nc2s9u3ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saqib.kotlinchatproject",
+            "certificate_hash": "a4ae3c349455264ea327fc2f2a75f4e6985e0319"
+          }
+        },
+        {
+          "client_id": "944999884512-ufgtpqq3betpk629uaubti5tc2t3jvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_-LzOaHCjlw-h4EK3uBNIhpTAzMiB6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944999884512-ufgtpqq3betpk629uaubti5tc2t3jvdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944999884512:android:2712960a3e2aba18",
+        "android_client_info": {
+          "package_name": "com.example.saqibps.chatappkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944999884512-ff4o3pc3pp3820cjlfvv5849q8jnvm6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saqibps.chatappkotlin",
+            "certificate_hash": "832fd8af0453af6f5917ee9e71a066d7a74c2378"
+          }
+        },
+        {
+          "client_id": "944999884512-ufgtpqq3betpk629uaubti5tc2t3jvdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd_-LzOaHCjlw-h4EK3uBNIhpTAzMiB6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944999884512-ufgtpqq3betpk629uaubti5tc2t3jvdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
