@@ -23,6 +23,8 @@ class SignUpActivity : AppCompatActivity() {
 
         if (auth.currentUser != null) {
 
+            gotoChat()
+            return
         }
         progress = ProgressDialog(this)
         progress.setCancelable(false)
